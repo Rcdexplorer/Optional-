@@ -91,7 +91,7 @@ EXTINF: -1 tvg-name="Zee Cinema" tvg-logo="https://upload.wikimedia.org/wikipedi
 http://46.250.234.136:8080/live/6262758855/6262758855/1.ts
 EXTINF: -1 tvg-name="Discovery Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="Nature", Discovery Bangla
 http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/575.ts
-EXTINF: -1 tvg-name="Net Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Nature", Net Geo
+EXTINF: -1 tvg-name="Net Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="Nature", Net Geo
 http://46.250.234.136:8080/live/6262758855/6262758855/2065.ts
 EXTINF: -1 tvg-name="Duronto" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Cartoon", Duronto
 http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/395.ts
