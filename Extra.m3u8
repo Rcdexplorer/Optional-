@@ -49,15 +49,15 @@ http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/376.ts
 http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/389.ts
 #EXTINF: -1 tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Kolkata", Star Jalsha
 http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/449.ts
-#EXTINF: -1 tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Kolkata", Star Jalsha
+#EXTINF: -1 tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Kolkata", Star Jalsha HD
 http://46.250.234.136:8080/live/6262758855/6262758855/9161.ts
 #EXTINF: -1 tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Kolkata", Zee Bangla 
-http://46.250.234.136:8080/live/6262758855/6262758855/9368.ts
-#EXTINF: -1 tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Kolkata", Zee Bangla 
+https://jio.dinesh29.com.np/live/jio-universal/zee-bangla/index.ts
+#EXTINF: -1 tvg-name="Zee Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Kolkata", Zee Bangla HD
 http://46.250.234.136:8080/live/6262758855/6262758855/11.ts
 #EXTINF: -1 tvg-name="Colours Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" group-title="Kolkata", Colours Bangla
 http://46.250.234.136:8080/live/6262758855/6262758855/121.ts
-#EXTINF: -1 tvg-name="Colours Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" group-title="Kolkata", Colours Bangla
+#EXTINF: -1 tvg-name="Colours Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" group-title="Kolkata", Colours Bangla HD
 http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/453.ts
 #EXTINF: -1 tvg-name="Sun Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Kolkata", Sun Bangla
 http://46.250.234.136:8080/live/6262758855/6262758855/118.ts
