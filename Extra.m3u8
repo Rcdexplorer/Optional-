@@ -14,7 +14,7 @@ http://46.250.234.136:8080/live/6262758855/6262758855/9370.ts
 #EXTINF: -1 tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports
 http://himelop-back.ddns.net:8080/hls/col12.m3u8
 #EXTINF: -1 tvg-name="Gazi Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla", Gazi Tv
-http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLN5VG7QecDhiNPvF7JnP1cI/ts
+https://fmrx.short.gy/Gazi_Tv_HD/Join@AbidDthOfficial/ABID_DTH.m3u8
 #EXTINF: -1 tvg-name="Nagorik Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" group-title="Bangla", Nagorik Tv
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHMzLwu1u8gW5ZfrZh5mY6WA/ts
 #EXTINF: -1 tvg-name="Atn bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bangla", Atn bangla
@@ -78,7 +78,7 @@ http://46.250.234.136:8080/live/6262758855/6262758855/2799.ts
 #EXTINF: -1 tvg-name="Zee Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi", Zee Tv
 http://46.250.234.136:8080/live/6262758855/6262758855/996.ts
 #EXTINF: -1 tvg-name="Colours" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/1200px-Colors_TV_logo.svg.png" group-title="Hindi", Colours
-http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/41284.ts
+http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLNZ9Abd8YKRpNAUnsr9kfTo/ts
 #EXTINF: -1 tvg-name="Star Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Hindi", Star Plus
 http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLA1lnjmnkkPfFtJwXQr5CY4/ts
 #EXTINF: -1 tvg-name="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="Hindi Movies", Sony Max
