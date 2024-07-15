@@ -2,7 +2,7 @@
 #EXTINF: -1 tvg-name="Star Sports-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="Sports", Star sports-1
 https://tv.durbinlive.pro/api/play3.php?c=https://edge1-eu-west.picarto.tv/stream/hls/golive%2b2ilene/index.m3u8
 #EXTINF: -1 tvg-name="Star sports-3" tvg-logo="https://p7.hiclipart.com/preview/734/315/763/cricket-world-cup-star-sports-3-streaming-media-ptv-sports-live-stream-thumbnail.jpg" group-title="Sports", Star Sports-3
-http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLOaEgvp3xMHrpt4dL5LGr8o/ts
+https://live-cdn.tsports.com/live-02/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1721066416:KeyName=tsports-ed25519-01:Signature=BqAphpwkPjAPrIPFB9GoCxyNfCFaOdCdUqlpX3TfY0tnJ-yUQMBvo7Rc89hTn-ddK8v2MAgtGNmrJbr6Z12SBw
 #EXTINF: -1 tvg-name="Star Sports Select-1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png" group-title="Sports", Star Sports Select-1
 http://lifetvbd.xyz:8080/play/vGBeUY6aADDbWSRltLByLJfkwFl7d2yguFF_b9bDbpU/ts
 #EXTINF: -1 tvg-name="Sony Sports Ten-1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="Sports", Sony Sports Ten-1
